@@ -1,6 +1,8 @@
 # frontend-search-lab
 web development lab to learn how to search/filter front end array &amp; object content. 
 
+[wiki/js object/array search methods](https://github.com/una-cis-376/frontend-search-lab/wiki/js-array-object-methods-for-search)
+
 # Search Lab (Front-End, Vanilla JS)
 
 A minimal, no-framework lab to demonstrate **client-side search** in JavaScript.
