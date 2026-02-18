@@ -1,7 +1,7 @@
-const searchResults = document.getElementById("results");
+const searchResults = document.getElementById("searchResults");
 
 // hardcoded search term
-const target = "Hotel";
+const target = "Hote"; //todo: change to "Hote"
 let found = false;
 
 // manual loop search

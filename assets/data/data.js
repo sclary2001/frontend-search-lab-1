@@ -39,8 +39,7 @@ const jsObjectData = [
     { id: 29, app: "emmet", action: "create class div", windows: ".className", mac: ".className" },
     { id: 30, app: "emmet", action: "create id div", windows: "div#main", mac: "div#main" },
     { id: 31, app: "emmet", action: "nested classes", windows: "div.card.item", mac: "div.card.item" }
-  ],
-];
+  ];
 
 
 // NATO PHONETIC ALPHABET

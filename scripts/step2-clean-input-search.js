@@ -17,7 +17,7 @@ function handleSearch() {
   const query = searchInput.value.trim().toLowerCase();
 
   if (!query) {
-    render(NATO);
+    renderSearchResults(jsArrayData);
     return;
   }
 
@@ -25,11 +25,11 @@ function handleSearch() {
     word.toLowerCase().includes(query)
   );
 
-  renderSearch(results);
+  renderSearchResults(results);
 }
 
 // Search as you type
-searchInput.addEventListener("input", handleSearch);
+// searchInput.addEventListener("input", handleSearch);
 
 // Search on button click
 searchButton.addEventListener("click", handleSearch);
