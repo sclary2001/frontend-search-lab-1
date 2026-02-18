@@ -32,18 +32,3 @@ By the end, you should be able to:
 
 ---
 
-## Repo Files
-
-- `index.html` — the page with the input + results area
-- `data.js` — the data you search
-- `app.js` — the search + render logic
-
----
-
-## Part 0 — Warm-up: Search an Array of Strings
-
-Before searching objects, start simple.
-
-### Example data (strings)
-```js
-const NAMES = ["alpha", "bravo", "charlie", "delta"];
